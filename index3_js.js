@@ -8,8 +8,8 @@ let name = prompt("What is your name?");
 console.log("Hello, " + name + "!");
 
 // Simple math
-let num1 = 1000;
-let num2 = 500;
+let num1 = 10000;
+let num2 = 5000;
 let sum = num1 + num2;
 
 console.log("The sum of " + num1 + " and " + num2 + " is " + sum);
